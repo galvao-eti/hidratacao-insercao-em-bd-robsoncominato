@@ -1,7 +1,7 @@
-# hidratacao-insercao-em-bd-joseadilson
+﻿# hidratacao-insercao-em-bd-robsoncomianto
 
 # Aluno:
-    José Adilson Junior da Silva
+    Robson A. S. Cominato
   
  # Email:
-    joseadilsson@gmail.com
+   robson.comnato@gmail.com
